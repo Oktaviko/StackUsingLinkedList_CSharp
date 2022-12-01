@@ -18,6 +18,11 @@ namespace StackUsingLinkedList_CSharp
     }
     class Stacks
     {
+        Node top;
+        public Stacks()
+        {
+            top = null;
+        }
 
     }
     internal class Program
