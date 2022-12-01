@@ -1,0 +1,8 @@
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\StackUsingLinkedList_CSharp\bin\Debug\StackUsingLinkedList_CSharp.exe.config
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\StackUsingLinkedList_CSharp\bin\Debug\StackUsingLinkedList_CSharp.exe
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\StackUsingLinkedList_CSharp\bin\Debug\StackUsingLinkedList_CSharp.pdb
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\StackUsingLinkedList_CSharp\obj\Debug\StackUsingLinkedList_CSharp.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\StackUsingLinkedList_CSharp\obj\Debug\StackUsingLinkedList_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\StackUsingLinkedList_CSharp\obj\Debug\StackUsingLinkedList_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\StackUsingLinkedList_CSharp\obj\Debug\StackUsingLinkedList_CSharp.exe
+C:\Users\asus\OneDrive - Universitas Muhammadiyah Yogyakarta\AlgoritmaStrukturData\StackUsingLinkedList_CSharp\obj\Debug\StackUsingLinkedList_CSharp.pdb
